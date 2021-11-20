@@ -1,4 +1,4 @@
-package sdTestGit;
+package sdTestGit.copy;
 
 public class app2 {
 
